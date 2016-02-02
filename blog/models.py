@@ -2,7 +2,7 @@ from django.db import models
 from django.utils import timezone
 
 # Create your models here.
-# All lines starting with from or imprt menas that it is taken from other files.
+# All lines starting with from or import means that it is taken from other files.
 # Class Post.. - defines our model (it's an object).
 # Class = defining an object
 # Post = name of our model
